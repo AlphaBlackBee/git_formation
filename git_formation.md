@@ -24,4 +24,4 @@ You add modification and commit them localy and push remotely to sync your copy 
 This paragraph present few base command for git usage that you MUST be know:
 
 Create clone of repository
-![](https://github.com/BarbareBzhdev/git_formation/blob/master/asciinema_file/gitClone.gif)
+![](https://github.com/BarbareBzhdev/git_formation/blob/master/asciinema_file/gitclone.gif)
