@@ -1,4 +1,4 @@
-# GIT FORMATION
+# GIT
 
 ## Install
 
